@@ -20,3 +20,13 @@ Welcome to the official website of the Churchill College Alumni Club Japan.
 
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
